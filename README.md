@@ -2,7 +2,10 @@
 
 ## 🚀 About Me
 
-🎓 I am Quoc-Liem Vu!
+🎓 I am Quoc-Liem Vu! I graduated from the University of Washington with a Bachelors of Science in Electrical Engineering, with a concentration in Neural Engineering and a minor in Applied Mathematics. 
+Currently, I'm studying at the University of Pennsylvania for a Master's in Computer and Information Technology with a focus in machine learning. I'm aspiring to enter the field of machine learning, and
+so far, have published a paper in reinforcement learning, check it out! (https://openreview.net/forum?id=SWltj9k6e5). Right now, I am dabbling in full-stack development and DevOps for some current work 
+and to broaden my skill range. Though I hope to be a strong machine learning engineer in the future. 
 
 <!-- ## 🏅 Achievements -->
 
@@ -16,7 +19,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Jvascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <!-- ![Matlab](https://img.shields.io/badge/Matlab-323330?style=for-the-badge&logo=matlab&logoColor=F7DF1E) Make this badge -->
  
  ### Machine Learning / Data
@@ -25,9 +28,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-<!-- ![Jax]() Make this badge--> 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<!-- ![Jax]() Make this badge--> 
  
  ### Cloud
  
